@@ -10,7 +10,7 @@ FlightTracker is a Python script designed to track flight prices for specified r
 - Headless execution for server environments.
 
 <img src="./imgs/link_example.png" width="200%">
-<img src="./imgs/run_example.png" width="50%">
+<img src="./imgs/run_example.PNG" width="50%">
 
 ## Prerequisites
 
